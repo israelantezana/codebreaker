@@ -24,4 +24,4 @@ docker-compose run --service-ports csd-service bash
 
 --solo para probar ci con sonar1
 
---para probar github pages
+--para ver como funciona github actions
